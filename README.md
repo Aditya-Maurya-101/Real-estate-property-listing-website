@@ -62,7 +62,7 @@ real-estate-property-listing-website/
 ## 📸 Screenshots
 
 ### 🔹 Home Section
-![Home Screenshot](img/home.jpg)
+![Home Screenshot](img/home.png)
 
 ### 🔹 Property Listing Section
 ![Home Screenshot](img/property.png)
