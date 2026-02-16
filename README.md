@@ -7,7 +7,7 @@ This project demonstrates a clean UI design, structured layout, and interactive 
 
 ## 🌐 Live Demo
 
-🔗[ https://your-username.github.io/real-estate-property-listing-website/](https://aditya-maurya-101.github.io/Real-estate-property-listing-website/)
+🔗[ https://Aditya-Maurya-101.github.io/real-estate-property-listing-website/](https://aditya-maurya-101.github.io/Real-estate-property-listing-website/)
 
 ---
 
